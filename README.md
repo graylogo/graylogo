@@ -18,8 +18,8 @@ I'm a passionate developer focused on creating innovative solutions with modern 
 ## 🌐 My Website
 [![Gray's Blog](https://img.shields.io/badge/Blog-grayblog.cn-2563EB?style=for-the-badge&logo=blogger&logoColor=white)](https://grayblog.cn)
 
-## 🐍 Snake Game
-![Snake Game](https://github.com/graylogo/graylogo/blob/output/github-contribution-grid-snake.svg)
+## � GitHub Contribution Snake
+![GitHub Contribution Snake](https://raw.githubusercontent.com/graylogo/graylogo/output/github-contribution-grid-snake.svg)
 
-## 📫 Let's Connect
+## �📫 Let's Connect
 Feel free to reach out if you want to collaborate on interesting projects!
